@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "PrimeraApp"
+    }
+  },
+  "defaultProject": "PrimeraApp",
+  "cli": {
+    "analytics": "4a0ef64f-ecdd-4588-9c16-cb404a56a131"
+  }
 }
